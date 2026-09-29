@@ -1,0 +1,92 @@
+name: 问题反馈 Bug report
+description: 哪里坏了、不对劲或者和预期不一样 / Something is broken or not working as expected
+title: "[Bug] "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        谢谢你帮小八找问题！提交前请先[搜索一下](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue)有没有人报过。
+        Thanks for helping! Please [search existing issues](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue) first.
+
+        **Issues 是公开的：请不要填写邮箱、密码、兑换码、订单号或孩子的个人信息。** 账号和付款问题请发邮件到 hello@yldm.ai。
+        **Issues are public: do not include emails, passwords, redeem codes, order numbers or a child's personal details.** Email hello@yldm.ai for account or payment questions.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: 平台 Platform
+      multiple: true
+      options:
+        - 网页版 Web
+        - Windows
+        - macOS
+        - iPhone / iPad
+        - Android
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 版本号 Version
+      description: 在「我的 › 关于」里，或页面左上角标志旁 / Under Me › About, or next to the logo
+      placeholder: "0.2.127"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 设备与浏览器 Device and browser
+      description: 例如 Chrome 131 / Windows 11，iPad Air / iPadOS 19 / e.g. Chrome 131 on Windows 11
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: 在哪里遇到的 Where
+      options:
+        - 闯关与练习 Levels and practice
+        - 小游戏 Mini-games
+        - 训练中心与背单词 Training centre and vocabulary
+        - 小八衣橱与商店 Wardrobe and shop
+        - 排行、好友与赛季 Leaderboards, friends and seasons
+        - 家庭与家长控制 Family and parental controls
+        - 班级与学校 Classes and schools
+        - 账号、登录与同步 Account, sign-in and sync
+        - 设置 Settings
+        - 其他 Other
+    validations:
+      required: false
+  - type: textarea
+    id: steps
+    attributes:
+      label: 重现步骤 Steps to reproduce
+      description: 一步步写出怎样能看到这个问题 / How can we see it happen, step by step
+      placeholder: |
+        1. 打开闯关地图第 1 章第 1 关
+        2. 按任意键开始
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望的结果 Expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际发生了什么 Actual
+      description: 截图或录屏可以直接拖进这里 / Drag screenshots or a recording in here
+    validations:
+      required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: 出现频率 How often
+      options:
+        - 每次都会 Every time
+        - 有时会 Sometimes
+        - 只出现过一次 Only once
+    validations:
+      required: false
