@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        谢谢你帮小八找问题！提交前请先[搜索一下](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue)有没有人报过。
-        Thanks for helping! Please [search existing issues](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue) first.
+        谢谢你帮小八找问题！提交前请先[搜索一下](https://github.com/yldm-tech/taptapgo-app/issues?q=is%3Aissue)有没有人报过。
+        Thanks for helping! Please [search existing issues](https://github.com/yldm-tech/taptapgo-app/issues?q=is%3Aissue) first.
 
         **Issues 是公开的：请不要填写邮箱、密码、兑换码、订单号或孩子的个人信息。** 账号和付款问题请发邮件到 hello@yldm.ai。
         **Issues are public: do not include emails, passwords, redeem codes, order numbers or a child's personal details.** Email hello@yldm.ai for account or payment questions.

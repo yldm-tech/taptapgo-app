@@ -4,11 +4,13 @@
 
 **跟着小八闯关，边玩边学会盲打。**
 
+[![官网](https://img.shields.io/badge/Website-TapTapGo-2563eb?style=flat-square)](https://taptapgo.yldm.ai) [![网页版](https://img.shields.io/badge/Play-Web_App-16a34a?style=flat-square)](https://taptapgo.yldm.ai/app) [![下载](https://img.shields.io/badge/Download-Desktop_%26_Mobile-7c3aed?style=flat-square)](https://taptapgo.yldm.ai/download) [![反馈](https://img.shields.io/badge/Feedback-Issues-ea580c?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/issues/new/choose) [![更新说明](https://img.shields.io/badge/Updates-Release_Notes-0891b2?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/releases)
+
 面向孩子、家庭和学校的打字冒险：闯关地图、20 多个打字小游戏、背单词、标准测试和证书，支持英语、中文拼音、日语、韩语、法语、德语、西班牙语、俄语和编程语言。
 
 [官网](https://taptapgo.yldm.ai) · [网页版](https://taptapgo.yldm.ai/app) · [下载](https://taptapgo.yldm.ai/download) · [更新说明](https://taptapgo.yldm.ai/changelog) · [帮助](https://taptapgo.yldm.ai/help)
 
-[English](#english)
+**简体中文** · [English](README.en.md) · [日本語](README.ja.md)
 
 </div>
 
@@ -18,8 +20,8 @@
 
 ## 反馈问题
 
-1. 先在 [Issues](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue) 里搜一下，看看有没有人报过同样的问题。有的话点个 👍，或者补充你的情况。
-2. 没有的话，[新建 Issue](https://github.com/yldm-tech/taptapgo_app/issues/new/choose)，选「问题反馈」或「功能建议」，按表单填写。
+1. 先在 [Issues](https://github.com/yldm-tech/taptapgo-app/issues?q=is%3Aissue) 里搜一下，看看有没有人报过同样的问题。有的话点个 👍，或者补充你的情况。
+2. 没有的话，[新建 Issue](https://github.com/yldm-tech/taptapgo-app/issues/new/choose)，选「问题反馈」或「功能建议」，按表单填写。
 
 写清楚这几点，我们能更快修好：
 
@@ -45,41 +47,13 @@
 
 ## 更新说明
 
-每次发布的内容会同步到本仓库的 [Releases](https://github.com/yldm-tech/taptapgo_app/releases)，完整、多语言的版本在官网的[更新说明](https://taptapgo.yldm.ai/changelog)。点右上角的 **Watch › Custom › Releases**，有新版本时 GitHub 会通知你。
+每次发布的内容会同步到本仓库的 [Releases](https://github.com/yldm-tech/taptapgo-app/releases)，完整、多语言的版本在官网的[更新说明](https://taptapgo.yldm.ai/changelog)。点右上角的 **Watch › Custom › Releases**，有新版本时 GitHub 会通知你。
 
 ## 交流
 
 - QQ 内测群：[1124595369](https://qm.qq.com/q/deSSqSwIWA)
 - 微信群和开发者微信：见[官网](https://taptapgo.yldm.ai)底部的社区区域
 - 邮件：[hello@yldm.ai](mailto:hello@yldm.ai)
-
----
-
-<a id="english"></a>
-
-## English
-
-**TapTapGo** is a typing adventure for kids, families and schools: learn to touch type through a level map with Octo, more than 20 typing mini-games, vocabulary books, standard tests and certificates, in English, Chinese pinyin, Japanese, Korean, French, German, Spanish, Russian and programming languages.
-
-This repository is where you **report bugs and suggest features**, and where **the release notes of every version** are published. TapTapGo's source code is not here.
-
-### Reporting a problem
-
-1. Search the [issues](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue) first. If someone has already reported it, add a 👍 or your details there.
-2. Otherwise [open a new issue](https://github.com/yldm-tech/taptapgo_app/issues/new/choose) with the bug report or feature request form.
-
-Tell us the platform (web, Windows, macOS, iPhone / iPad, Android), the version (under Me › About, or next to the logo), the steps to reproduce, what you expected and what happened. Screenshots help a lot.
-
-> [!IMPORTANT]
-> Issues are public. **Do not post email addresses, passwords, redeem codes, order numbers or a child's personal details.** For account, payment, refund or privacy questions, email [hello@yldm.ai](mailto:hello@yldm.ai) or use the [feedback form](https://taptapgo.yldm.ai/feedback). Report security vulnerabilities privately as described in [SECURITY.md](SECURITY.md).
-
-### Where to get it
-
-The web app at [taptapgo.yldm.ai/app](https://taptapgo.yldm.ai/app); Windows and macOS installers on the [download page](https://taptapgo.yldm.ai/download); the iPhone / iPad beta through [TestFlight](https://testflight.apple.com/join/cCUeYdNP) and the Android beta through [Google Play](https://play.google.com/apps/testing/ai.yldm.taptapgo).
-
-### Release notes
-
-Every release is mirrored to this repository's [Releases](https://github.com/yldm-tech/taptapgo_app/releases). The full notes in every language are on the [changelog page](https://taptapgo.yldm.ai/changelog). Choose **Watch › Custom › Releases** to be notified of new versions.
 
 ---
 

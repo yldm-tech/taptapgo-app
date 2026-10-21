@@ -4,7 +4,7 @@ contact_links:
     url: mailto:hello@yldm.ai
     about: 涉及个人信息的问题请发邮件，不要公开提交 / Email us; do not post personal details in a public issue
   - name: 安全漏洞 Security vulnerability
-    url: https://github.com/yldm-tech/taptapgo_app/security/policy
+    url: https://github.com/yldm-tech/taptapgo-app/security/policy
     about: 请私下报告，不要公开提交 / Report privately, not as a public issue
   - name: 帮助中心 Help centre
     url: https://taptapgo.yldm.ai/help
