@@ -42,8 +42,8 @@
 | 网页版 | [taptapgo.yldm.ai/app](https://taptapgo.yldm.ai/app)，打开即用，更新后立即生效 |
 | Windows（x64 / ARM） | [下载页](https://taptapgo.yldm.ai/download)，应用内可以检查更新 |
 | macOS（Apple 芯片 / Intel） | [下载页](https://taptapgo.yldm.ai/download)，应用内可以检查更新 |
-| iPhone / iPad | 测试版，通过 [TestFlight](https://testflight.apple.com/join/cCUeYdNP) 抢先体验 |
-| Android | 测试版，通过 [Google Play](https://play.google.com/apps/testing/ai.yldm.taptapgo) 加入 |
+| iPhone / iPad | 正式版，通过 [App Store](https://apps.apple.com/app/id6815918068) 下载 |
+| Android | 正式版，通过 [Google Play](https://play.google.com/store/apps/details?id=ai.yldm.taptapgo) 下载 |
 
 ## 更新说明
 
