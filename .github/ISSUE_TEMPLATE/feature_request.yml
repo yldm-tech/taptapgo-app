@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        有什么让指尖冒险更好玩、更好用的想法？先[搜一下](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue+label%3Aenhancement)有没有类似的建议，有的话点个 👍 就能帮它排到前面。
-        Have an idea? [Search existing requests](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue+label%3Aenhancement) first; a 👍 on one helps us prioritise it.
+        有什么让指尖冒险更好玩、更好用的想法？先[搜一下](https://github.com/yldm-tech/taptapgo-app/issues?q=is%3Aissue+label%3Aenhancement)有没有类似的建议，有的话点个 👍 就能帮它排到前面。
+        Have an idea? [Search existing requests](https://github.com/yldm-tech/taptapgo-app/issues?q=is%3Aissue+label%3Aenhancement) first; a 👍 on one helps us prioritise it.
   - type: dropdown
     id: who
     attributes:
