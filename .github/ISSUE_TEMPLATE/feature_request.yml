@@ -1,0 +1,41 @@
+name: 功能建议 Feature request
+description: 想要的新功能或改进 / An idea for something new or better
+title: "[建议] "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        有什么让指尖冒险更好玩、更好用的想法？先[搜一下](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue+label%3Aenhancement)有没有类似的建议，有的话点个 👍 就能帮它排到前面。
+        Have an idea? [Search existing requests](https://github.com/yldm-tech/taptapgo_app/issues?q=is%3Aissue+label%3Aenhancement) first; a 👍 on one helps us prioritise it.
+  - type: dropdown
+    id: who
+    attributes:
+      label: 你是 You are
+      options:
+        - 自己在练 Practising myself
+        - 家长 A parent
+        - 老师 A teacher
+        - 学生 A student
+        - 其他 Other
+    validations:
+      required: false
+  - type: textarea
+    id: problem
+    attributes:
+      label: 遇到了什么不方便 What is the problem
+      description: 想做什么的时候觉得少了点什么 / What were you trying to do when you missed it
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 你希望怎样 What would you like
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 现在是怎么绕过去的 How do you manage today
+    validations:
+      required: false
