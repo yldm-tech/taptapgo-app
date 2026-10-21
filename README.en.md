@@ -42,8 +42,8 @@ Please include:
 | Web | Open [taptapgo.yldm.ai/app](https://taptapgo.yldm.ai/app); updates are available as soon as they ship. |
 | Windows (x64 / ARM) | Use the [download page](https://taptapgo.yldm.ai/download); check for updates in the app. |
 | macOS (Apple silicon / Intel) | Use the [download page](https://taptapgo.yldm.ai/download); check for updates in the app. |
-| iPhone / iPad | Join the beta on [TestFlight](https://testflight.apple.com/join/cCUeYdNP). |
-| Android | Join the beta on [Google Play](https://play.google.com/apps/testing/ai.yldm.taptapgo). |
+| iPhone / iPad | Download the official release from the [App Store](https://apps.apple.com/app/id6815918068). |
+| Android | Download the official release from [Google Play](https://play.google.com/store/apps/details?id=ai.yldm.taptapgo). |
 
 ## Release notes
 

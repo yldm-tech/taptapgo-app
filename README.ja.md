@@ -42,8 +42,8 @@
 | ブラウザ | [taptapgo.yldm.ai/app](https://taptapgo.yldm.ai/app) を開くだけで利用できます。更新は公開後すぐに反映されます。 |
 | Windows（x64 / ARM） | [ダウンロードページ](https://taptapgo.yldm.ai/download)から入手できます。アプリ内で更新を確認できます。 |
 | macOS（Apple シリコン / Intel） | [ダウンロードページ](https://taptapgo.yldm.ai/download)から入手できます。アプリ内で更新を確認できます。 |
-| iPhone / iPad | [TestFlight](https://testflight.apple.com/join/cCUeYdNP) からベータ版に参加できます。 |
-| Android | [Google Play](https://play.google.com/apps/testing/ai.yldm.taptapgo) からベータ版に参加できます。 |
+| iPhone / iPad | [App Store](https://apps.apple.com/app/id6815918068) から正式版をダウンロードできます。 |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=ai.yldm.taptapgo) から正式版をダウンロードできます。 |
 
 ## 更新履歴
 
