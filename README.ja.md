@@ -4,7 +4,7 @@
 
 **小さなタコの相棒と冒険しながら、楽しくタッチタイピングを身につけよう。**
 
-[![公式サイト](https://img.shields.io/badge/Website-TapTapGo-2563eb?style=flat-square)](https://taptapgo.yldm.ai) [![ブラウザ版](https://img.shields.io/badge/Play-Web_App-16a34a?style=flat-square)](https://taptapgo.yldm.ai/app) [![ダウンロード](https://img.shields.io/badge/Download-Desktop_%26_Mobile-7c3aed?style=flat-square)](https://taptapgo.yldm.ai/download) [![フィードバック](https://img.shields.io/badge/Feedback-Issues-ea580c?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/issues/new/choose) [![リリースノート](https://img.shields.io/badge/Updates-Release_Notes-0891b2?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/releases)
+[![公式サイト](https://img.shields.io/badge/Website-TapTapGo-2563eb?style=flat-square)](https://taptapgo.yldm.ai) [![ブラウザ版](https://img.shields.io/badge/Play-Web_App-16a34a?style=flat-square)](https://taptapgo.yldm.ai/app) [![ダウンロード](https://img.shields.io/badge/Download-Desktop_%26_Mobile-7c3aed?style=flat-square)](https://taptapgo.yldm.ai/download) [![フィードバック](https://img.shields.io/badge/Feedback-Issues-ea580c?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/issues/new/choose) [![リリースノート](https://img.shields.io/badge/Updates-Release_Notes-0891b2?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/releases) [![X](https://img.shields.io/badge/X-%40suzukaze__haduki-000000?logo=x&logoColor=white)](https://x.com/suzukaze_haduki) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/houko)
 
 子ども、家族、学校のためのタイピングアドベンチャー。ステージマップ、20 種類以上のタイピングミニゲーム、単語学習、標準テスト、修了証を用意しています。英語、中国語のピンイン、日本語、韓国語、フランス語、ドイツ語、スペイン語、ロシア語、プログラミング言語の練習に対応しています。
 
