@@ -4,7 +4,7 @@
 
 **跟着小八闯关，边玩边学会盲打。**
 
-[![官网](https://img.shields.io/badge/Website-TapTapGo-2563eb?style=flat-square)](https://taptapgo.yldm.ai) [![网页版](https://img.shields.io/badge/Play-Web_App-16a34a?style=flat-square)](https://taptapgo.yldm.ai/app) [![下载](https://img.shields.io/badge/Download-Desktop_%26_Mobile-7c3aed?style=flat-square)](https://taptapgo.yldm.ai/download) [![反馈](https://img.shields.io/badge/Feedback-Issues-ea580c?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/issues/new/choose) [![更新说明](https://img.shields.io/badge/Updates-Release_Notes-0891b2?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/releases)
+[![官网](https://img.shields.io/badge/Website-TapTapGo-2563eb?style=flat-square)](https://taptapgo.yldm.ai) [![网页版](https://img.shields.io/badge/Play-Web_App-16a34a?style=flat-square)](https://taptapgo.yldm.ai/app) [![下载](https://img.shields.io/badge/Download-Desktop_%26_Mobile-7c3aed?style=flat-square)](https://taptapgo.yldm.ai/download) [![反馈](https://img.shields.io/badge/Feedback-Issues-ea580c?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/issues/new/choose) [![更新说明](https://img.shields.io/badge/Updates-Release_Notes-0891b2?style=flat-square)](https://github.com/yldm-tech/taptapgo-app/releases) [![X](https://img.shields.io/badge/X-%40suzukaze__haduki-000000?logo=x&logoColor=white)](https://x.com/suzukaze_haduki) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/houko)
 
 面向孩子、家庭和学校的打字冒险：闯关地图、20 多个打字小游戏、背单词、标准测试和证书，支持英语、中文拼音、日语、韩语、法语、德语、西班牙语、俄语和编程语言。
 
